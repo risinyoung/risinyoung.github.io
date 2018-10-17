@@ -11,7 +11,7 @@ tags:
 ---
 
 # 初入C++
----
+
 &emsp;&emsp;未来的人们你们好，我来了
 
 ![](/img/one_step.jpg 'one giant leap for mankind')
